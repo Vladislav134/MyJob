@@ -34,3 +34,12 @@ string[] Filtr (int n, string[] strArr)
     for (int i = 0; i < Arr.Length; i++)
     Console.Write($"\"{Arr[i]}\"  ");
 }
+
+Console.WriteLine("Введите количество строк");
+int n = int.Parse(Console.ReadLine()!);
+string[] kool = Matrix(n);
+PrintMatrix(kool);
+Console.Write("->  ");
+Filtr(n, kool);
+string[] kool2 = Filtr(n, kool);
+PrintMatrix2(kool2);
