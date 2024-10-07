@@ -1,0 +1,15 @@
+F:\GB\MyJob\job\bin\Debug\net6.0\job.exe
+F:\GB\MyJob\job\bin\Debug\net6.0\job.deps.json
+F:\GB\MyJob\job\bin\Debug\net6.0\job.runtimeconfig.json
+F:\GB\MyJob\job\bin\Debug\net6.0\job.dll
+F:\GB\MyJob\job\bin\Debug\net6.0\job.pdb
+F:\GB\MyJob\job\obj\Debug\net6.0\job.csproj.AssemblyReference.cache
+F:\GB\MyJob\job\obj\Debug\net6.0\job.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\MyJob\job\obj\Debug\net6.0\job.AssemblyInfoInputs.cache
+F:\GB\MyJob\job\obj\Debug\net6.0\job.AssemblyInfo.cs
+F:\GB\MyJob\job\obj\Debug\net6.0\job.csproj.CoreCompileInputs.cache
+F:\GB\MyJob\job\obj\Debug\net6.0\job.dll
+F:\GB\MyJob\job\obj\Debug\net6.0\refint\job.dll
+F:\GB\MyJob\job\obj\Debug\net6.0\job.pdb
+F:\GB\MyJob\job\obj\Debug\net6.0\job.genruntimeconfig.cache
+F:\GB\MyJob\job\obj\Debug\net6.0\ref\job.dll

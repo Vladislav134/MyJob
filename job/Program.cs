@@ -10,11 +10,6 @@ string[] Matrix(int n)
     return strArr;
 }
 
-void PrintMatrix (string[] strArr)
-{
-    for (int i = 0; i < strArr.Length; i++)
-    Console.Write($"\"{strArr[i]}\"  ");
-}
 
 string[] Filtr (int n, string[] strArr)
 {
@@ -29,17 +24,12 @@ string[] Filtr (int n, string[] strArr)
   return Arr;
  }
 
- void PrintMatrix2 (string[] Arr)
-{
-    for (int i = 0; i < Arr.Length; i++)
-    Console.Write($"\"{Arr[i]}\"  ");
-}
 
 Console.WriteLine("Введите количество строк");
 int n = int.Parse(Console.ReadLine()!);
 string[] kool = Matrix(n);
-PrintMatrix(kool);
-Console.Write("->  ");
 Filtr(n, kool);
 string[] kool2 = Filtr(n, kool);
-PrintMatrix2(kool2);
+Console.Write("[{0}]  ", string.Join(", ", kool));
+Console.Write("->  ");
+Console.Write("[{0}]  ", string.Join(", ", kool2));
